@@ -1,16 +1,34 @@
-### Hi there 👋, My name Asami Kafune
-#### I'm Javascript / Typescript Dev (Student)
-![I'm Javascript / Typescript Dev (Student)](https://cdn.discordapp.com/attachments/968060143801610261/968088543446597683/banner.png)
+# Hi there 👋, My name is [ Asami Kafune ]
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+### 🔮 </ Profiile >
+```js
+let myProfile = {
+  profile: {
+    name: "Asami Kafune",
+    age: 17,
+    skills: ["ts","js","Vue","html","C#"]
+  },
+  social: {
+    youtube: "A'Kafune",
+    Twitter: "@AsamiKafune"
+  }
+}
 
-Skills: VUE JS / JS / TS / HTML / CSS / c#
+console.log(myProfile)
+```
+❤ Github: [Kafune CH](https://github.com/AsamiKafune) , Twitter: [@AsamiKafune](https://twitter.com/asamikafune) , Youtube: [A'Kafune](https://www.youtube.com/channel/UC1s5T_9sfGrRxHJhjEceVSg)
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning C# , C++ , Java 
+![IMG](https://cdn.discordapp.com/attachments/968060143801610261/968088543446597683/banner.png)
 
+### 📰 </ Introduce >
+```js
+let introduce = " ยินดีที่ได้รู้จักทุกๆคนนะครับทางนี้ชื่อ \"เนะ\" อายุก็ตามข้างบนเลย! 
+เนะเป็นคอนเทนครีเอเตอร์ (Vtuber สายทำไปเรื่อย(?)...)
+และแน่นอน เนะหนะชอบการเขียนโค๊ตมากๆเลยหละมันเหมือนได้ลองแก้โจทย์ต่างๆตอนแก้บัคเลยหละ
+ส่วนโปรเจคในนี้เป็นโปรเจ็คที่เนะได้ลองฝึกเขียนมันอาจจะออกมาไม่ดีทั้งด้านความเร็วและการใช้งานจริง
+แต่อย่างน้อยๆคาฟุก็ได้รู้ว่าตัวเนะเองก็สามารถทำมันได้ (ถ้ามันดีแล้วอย่าไปแตะมันอีก)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AsamiKafune)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/asamikafune)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC1s5T_9sfGrRxHJhjEceVSg)  
+สุดท้ายก็อยากจะบอกคนที่ผ่านมาเห็นว่ารักนะครับ <3 "
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsamiKafune)](https://github.com/anuraghazra/github-readme-stats)
-
+console.log(introduce)
+```
