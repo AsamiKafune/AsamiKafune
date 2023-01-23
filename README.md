@@ -18,7 +18,7 @@ console.log(myProfile)
 ```
 ❤ Github: [Kafune CH](https://github.com/AsamiKafune) , Twitter: [@AsamiKafune](https://twitter.com/asamikafune) , Youtube: [A'Kafune](https://www.youtube.com/channel/UC1s5T_9sfGrRxHJhjEceVSg)
 
-![IMG](https://cdn.discordapp.com/attachments/968060143801610261/968088543446597683/banner.png)
+![IMG](https://media.discordapp.net/attachments/803211285797535755/1067111503074955344/a.png)
 
 ### 📰 </ Introduce(TH) >
 ```js
