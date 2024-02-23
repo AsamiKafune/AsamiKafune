@@ -1,6 +1,5 @@
 # Hi there 👋, My name is [ Asami Kafune ]
 ### 🔮 </ Profiile >
-![IMG](https://media.discordapp.net/attachments/803211285797535755/1067111503074955344/a.png)
 ```js
 let myProfile = {
   profile: {
