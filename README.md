@@ -5,7 +5,7 @@ let myProfile = {
   profile: {
     name: "Asami Kafune",
     age: 17,
-    skills: ["ts","js","Vue","C#", "python","html"]
+    skills: ["ts/js","lua","java","Vue","C#", "python","html"]
   },
   social: {
     youtube: "A'Kafune",
